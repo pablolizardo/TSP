@@ -1,0 +1,1506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"codigo",
+				"codigo_prestamo"
+			],
+			[
+				"mostrar_",
+				"mostrar_registro	mostrar_registro"
+			],
+			[
+				"pre",
+				"precargar_registro	precargar_registro"
+			],
+			[
+				"main",
+				"main_	main(…)"
+			],
+			[
+				"struc",
+				"struct_	Struct"
+			],
+			[
+				"stru",
+				"struct_	struct"
+			],
+			[
+				"str",
+				"struct	struct"
+			],
+			[
+				"empleados_",
+				"empleados_cat1"
+			],
+			[
+				"s",
+				"struct	struct"
+			],
+			[
+				"cout",
+				"cout	cout"
+			],
+			[
+				"matri",
+				"matriz_cargar	cargar_matriz"
+			],
+			[
+				"filas",
+				"filas_menor"
+			],
+			[
+				"filas_",
+				"filas_mayor"
+			],
+			[
+				"suma",
+				"sumaFilas	suma_filas"
+			],
+			[
+				"labo",
+				"laboratorios"
+			],
+			[
+				"vectro",
+				"vector_a"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"s1_",
+				"s1_stock"
+			],
+			[
+				"s2_",
+				"s2_stock"
+			],
+			[
+				"cou",
+				"coutcpp	cout"
+			],
+			[
+				"vecto",
+				"vectorA"
+			],
+			[
+				"cantidad",
+				"cantidadAlumnos"
+			],
+			[
+				"contado",
+				"contador_impar"
+			],
+			[
+				"m_Id_in",
+				"m_Id_3_infusiones_cafe"
+			],
+			[
+				"m_Id_1_infusiones_ca",
+				"m_Id_1_infusiones_capuchino"
+			],
+			[
+				"m_Id_ca",
+				"m_Id_1_infusiones_cafe"
+			],
+			[
+				"m_Id",
+				"m_Id_1_cafe"
+			],
+			[
+				"producto",
+				"productoMasFallado"
+			],
+			[
+				"productoM",
+				"productoMasFallado"
+			],
+			[
+				"piez",
+				"piezasOk"
+			],
+			[
+				"piezas",
+				"piezasFalladas"
+			],
+			[
+				"pelicula",
+				"pelicula_7002"
+			],
+			[
+				"pelicula_",
+				"pelicula_7003"
+			],
+			[
+				"pelicu",
+				"pelicula_7002"
+			],
+			[
+				"asist",
+				"asistAlumnos"
+			],
+			[
+				"do",
+				"do	Do While Loop"
+			],
+			[
+				"condicion",
+				"condicion_entre"
+			],
+			[
+				"cantida",
+				"cantidad_curso_2"
+			],
+			[
+				"cantidad_",
+				"cantidad_curso_1"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"cap",
+				"capitulo_numero"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"cIndi",
+				"cIndigoDark"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "REGISTROS/registros_1.c",
+			"settings":
+			{
+				"buffer_size": 2212,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/pablo/.config/sublime-text-3/Packages/User/precargar_registro.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 2056,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/pablo/.config/sublime-text-3/Packages/User/mostrar_registro.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 566,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "REGISTROS/biblioteca.c",
+			"settings":
+			{
+				"buffer_size": 2286,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/pablo/.config/sublime-text-3/Packages/User/busqueda_secuencial.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 557,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 378.0,
+		"selected_items":
+		[
+			[
+				"matri",
+				"Snippet: matriz_contador"
+			],
+			[
+				"matriz",
+				"Snippet: matriz_contador"
+			],
+			[
+				"pre",
+				"Snippet: precargar_registro"
+			],
+			[
+				"precar",
+				"Snippet: precargar_registro"
+			],
+			[
+				"struc",
+				"Snippet: struct"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ini",
+				"Snippet: initcpp"
+			],
+			[
+				"orde",
+				"Snippet: ordenar_matriz"
+			],
+			[
+				"mostr",
+				"Snippet: mostrar_matriz"
+			],
+			[
+				"initcpp",
+				"Snippet: initcpp"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"init",
+				"Snippet: initcpp"
+			],
+			[
+				"buil",
+				"Build: Run"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"c ",
+				"Set Syntax: C#"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"obje",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"build r",
+				"Build: Run"
+			],
+			[
+				"linet",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intsal",
+				"Package Control: Install Package"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"cpp",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"snipp",
+				"Snippet: struct"
+			],
+			[
+				"settu",
+				"Preferences: Settings - User"
+			],
+			[
+				"bs3-la",
+				"Snippet: bs3-label-info"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"mard",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"page",
+				"Snippet: bs3-page header"
+			],
+			[
+				"tog",
+				"Toggle Comment"
+			],
+			[
+				"table",
+				"Snippet: bs3-table-striped"
+			],
+			[
+				"to",
+				"Toggle Comment"
+			],
+			[
+				"panel",
+				"Snippet: bs3-panel"
+			],
+			[
+				"toggl",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/pablo/sources/programacion1/registros.c",
+		"/home/pablo/sources/programacion1/registros",
+		"/home/pablo/RECUPERATORIO/recuperatorio.c",
+		"/home/pablo/.config/sublime-text-3/Packages/User/menu_cpp.sublime-snippet",
+		"/home/pablo/sources/programacion1/registros_1.c",
+		"/home/pablo/.config/sublime-text-3/Packages/User/ordenar_matriz.sublime-snippet",
+		"/home/pablo/sources/programacion1/recuperatorio/matrices_1.c",
+		"/home/pablo/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/pablo/sources/programacion1/viajes.c",
+		"/home/pablo/sources/programacion1/contructura.c",
+		"/home/pablo/sources/programacion1/expedientes.c",
+		"/home/pablo/.config/sublime-text-3/Packages/User/matriz_contador.sublime-snippet",
+		"/home/pablo/.config/sublime-text-3/Packages/User/clear.sublime-snippet",
+		"/home/pablo/sources/programacion1/matrices_5.c",
+		"/home/pablo/sources/programacion1/matrices_8.c",
+		"/home/pablo/sources/programacion1/matrices_6.cpp",
+		"/home/pablo/sources/programacion1/matrices_7.cpp",
+		"/home/pablo/.config/sublime-text-3/Packages/User/mostrar_matriz.sublime-snippet",
+		"/home/pablo/.config/sublime-text-3/Packages/User/suma_cols.sublime-snippet",
+		"/home/pablo/.config/sublime-text-3/Packages/User/suma_filas.sublime-snippet",
+		"/home/pablo/.config/sublime-text-3/Packages/User/cargar_matriz.sublime-snippet",
+		"/home/pablo/.config/sublime-text-3/Packages/User/inicializar_matriz.sublime-snippet",
+		"/home/pablo/.config/sublime-text-3/Packages/User/include_c.sublime-snippet",
+		"/home/pablo/.config/sublime-text-3/Packages/User/initcpp.sublime-snippet",
+		"/home/pablo/.config/sublime-text-3/Packages/User/cout.sublime-snippet",
+		"/home/pablo/.config/sublime-text-3/Packages/User/include_c_tab.sublime-snippet",
+		"/home/pablo/sources/programacion1/matrices_4.cpp",
+		"/home/pablo/EVALUACION_LABORATORIO/parcial1.cpp",
+		"/home/pablo/sources/programacion1/matrices_3.c",
+		"/home/pablo/sources/programacion1/funciones.c",
+		"/home/pablo/sources/programacion1/recuperatorio/vectores_2.c",
+		"/home/pablo/sources/programacion1/recuperatorio/vectores_3.c",
+		"/home/pablo/sources/programacion1/vectores_7.cpp",
+		"/home/pablo/sources/programacion1/vectores_8.cpp",
+		"/home/pablo/sources/programacion1/vectores_9.cpp",
+		"/home/pablo/sources/programacion1/vectores_10.c",
+		"/home/pablo/sources/programacion1/vectores_11.c",
+		"/home/pablo/sources/programacion1/matrices_2.c",
+		"/home/pablo/sources/programacion1/TP2/tp2.cpp",
+		"/home/pablo/sources/programacion1/viajes.cpp",
+		"/home/pablo/sources/programacion1/matriz.c",
+		"/run/media/pablo/84FE-F829/TP2 LIZARDO/tp2.cpp",
+		"/home/pablo/sources/programacion1/vectores_01.c",
+		"/home/pablo/sources/programacion1/switch_case.c",
+		"/home/pablo/sources/programacion1/vectores_04.c",
+		"/home/pablo/sources/programacion1/switch_case",
+		"/home/pablo/sources/programacion1/switch.c",
+		"/home/pablo/sources/programacion1/switch",
+		"/home/pablo/sources/programacion1/superficie",
+		"/home/pablo/sources/programacion1/vectores_02.c",
+		"/home/pablo/sources/programacion1/vectores_03.c",
+		"/home/pablo/sources/programacion1/array_3.c",
+		"/home/pablo/sources/programacion1/TP1/tp1.c",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_2_2.c",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_2_3.c",
+		"/home/pablo/sources/programacion1/vectores_03",
+		"/home/pablo/sources/programacion1/vectores_02",
+		"/home/pablo/sources/programacion1/vectores_01",
+		"/home/pablo/sources/programacion1/calculadora",
+		"/home/pablo/sources/programacion1/array_1.c",
+		"/home/pablo/sources/programacion1/array_2.c",
+		"/home/pablo/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/pablo/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/pablo/.config/sublime-text-3/Packages/User/C.sublime-settings",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_2.c",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_6.c",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_7.c",
+		"/home/pablo/sources/programacion1/proyectos.sublime-project",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_5.c",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_4.c",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_3.c",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_1.c",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_7",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_6",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_5",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_4",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_3",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_2",
+		"/home/pablo/sources/programacion1/estructuras_iterativas_1",
+		"/home/pablo/sources/programacion1/espar",
+		"/home/pablo/sources/programacion1/encomiendas",
+		"/home/pablo/sources/programacion1/codigo_ventas.cpp",
+		"/home/pablo/sources/programacion1/clima.c",
+		"/home/pablo/sources/programacion1/calculadora.c",
+		"/home/pablo/sources/programacion1/sueldos.c",
+		"/home/pablo/sources/programacion1/calcula_sueldo.c",
+		"/home/pablo/sources/programacion1/ventas_comercio.c",
+		"/home/pablo/sources/programacion1/edades.c",
+		"/home/pablo/sources/programacion1/espar.c",
+		"/home/pablo/sources/programacion1/notas.c",
+		"/home/pablo/sources/programacion1/encomiendas.c",
+		"/home/pablo/sources/programacion1/turismo.c",
+		"/home/pablo/Documentos/TSP/01_PROGRAMACION/GUIA/un comercio tiene a la venta.md",
+		"/home/pablo/sources/programacion1/guias_nuevas.md",
+		"/home/pablo/sources/programacion1/ejercicio2/superficie.cpp",
+		"/home/pablo/sources/programacion1/switch_case.cpp",
+		"/home/pablo/sources/programacion1/numero_positivo.cpp",
+		"/home/pablo/.config/sublime-text-3/Packages/C++ Snippets/README.md",
+		"/home/pablo/sources/programacion1/ejercicio1/suma_4_numeros.c",
+		"/home/pablo/sources/programacion1/sueldo",
+		"/home/pablo/Dropbox/sites/info3cast/wp-content/themes/info3cast/css/theme/template/theme.scss",
+		"/home/pablo/Dropbox/sites/info3cast/wp-content/themes/info3cast/css/theme/template/settings.scss",
+		"/home/pablo/Dropbox/sites/info3cast/wp-content/themes/info3cast/css/theme/source/night.scss",
+		"/home/pablo/Dropbox/sites/info3cast/wp-content/themes/info3cast/css/theme/night.css",
+		"/home/pablo/Dropbox/sites/info3cast/wp-content/themes/info3cast/css/theme/moon.css",
+		"/home/pablo/Dropbox/sites/info3cast/wp-content/themes/info3cast/css/theme/source/moon.scss",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/css/bootstrap-material-design.css",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/style.css",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/css/bootstrap-material-design.min.css",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/js/lang/el.js",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/single.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/configXML/sendarent.wordpress.2014-07-16.xml",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/fonts/Roboto-Black-webfont.svg",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/index.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/single-cp_clientes.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/single-cp_vehiculos.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/functions.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/page-templates/template-alquileres.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/single-cp_alquileres.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/style.scss",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/page-templates/template-clientes.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/footer.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/header.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/plugins/advanced-custom-fields/acf.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/plugins/wp-admin-ui-customize/wp-admin-ui-customize.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/sidebar.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/search.php",
+		"/home/pablo/Dropbox/sites/sendaRent/wp-content/themes/sendaTheme/js/main.js"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"l[i]",
+			"codigo_prestamo",
+			"[i]",
+			"i",
+			"10",
+			"o[i]",
+			"4",
+			"3",
+			"l[2].campo_2 = 54;",
+			"src",
+			"cat",
+			"prc",
+			"stk",
+			"this",
+			"o",
+			"i",
+			"104",
+			"[i]",
+			"i",
+			"a.",
+			"a",
+			".cat",
+			" o[0].cat",
+			"o[1].cat",
+			"item",
+			"items",
+			"sueldos",
+			"se pagaron",
+			"int",
+			"1",
+			"i",
+			"mayor",
+			"objetos",
+			"empleado",
+			"empleados",
+			"Empleados",
+			"empleados",
+			"'",
+			"1",
+			"'",
+			"\"",
+			"1",
+			">> i >>",
+			">>",
+			"\\t",
+			"tz",
+			"t<",
+			"tz",
+			"t<",
+			"aux",
+			"mayor1",
+			"k",
+			"tz",
+			"i",
+			"expediente",
+			"{",
+			" ",
+			"{0",
+			"010",
+			"}",
+			"{",
+			"i",
+			" ",
+			"},",
+			"{",
+			"	",
+			",",
+			"i",
+			"opcion",
+			"menu",
+			"i",
+			"suma_filas",
+			"i",
+			"suma_columnas",
+			"suma_filas",
+			"i",
+			"{",
+			"i",
+			"c++",
+			"numero",
+			"i",
+			"mayor",
+			"men_columna",
+			"may_columna",
+			"men_fila",
+			"f",
+			"filas_",
+			"[i]",
+			"i",
+			"fila",
+			"men",
+			"may",
+			"i",
+			"pares",
+			"i",
+			"n",
+			"i",
+			" {",
+			"i",
+			"j",
+			"i",
+			"m",
+			"n",
+			"i",
+			"\";",
+			"];\n",
+			"i",
+			"i ",
+			"i",
+			"remedios",
+			"+",
+			"vector",
+			"vector_a",
+			"20",
+			"i",
+			"mayor",
+			"alumnos",
+			"\";",
+			"1",
+			"dad",
+			"ad[0]",
+			"[0] ",
+			"-1",
+			"[i][",
+			"[i]",
+			"i",
+			"-1",
+			"]["
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "REGISTROS/registros_1.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1077,
+								1077
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 795.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/pablo/.config/sublime-text-3/Packages/User/precargar_registro.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1813,
+								1813
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"default_extension": "sublime-snippet",
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/pablo/.config/sublime-text-3/Packages/User/mostrar_registro.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							],
+							[
+								183,
+								183
+							],
+							[
+								221,
+								221
+							],
+							[
+								260,
+								260
+							],
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"default_extension": "sublime-snippet",
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "REGISTROS/biblioteca.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2238,
+								2238
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1608.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/pablo/.config/sublime-text-3/Packages/User/busqueda_secuencial.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"default_extension": "sublime-snippet",
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 111.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 50.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 35.0
+	},
+	"project": "proyectos.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"regi",
+				"registros.c"
+			],
+			[
+				"sw",
+				"switch_case.c"
+			],
+			[
+				"ve",
+				"vectores_01.c"
+			],
+			[
+				"vec",
+				"vectores_04.c"
+			],
+			[
+				"estr",
+				"estructuras_iterativas_7.c"
+			],
+			[
+				"est",
+				"estructuras_iterativas_6"
+			],
+			[
+				"se",
+				"~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+			],
+			[
+				"stye",
+				"style.scss"
+			],
+			[
+				"el_",
+				"~/sources/programacion1/el_menor_de_tres.cpp"
+			],
+			[
+				"single",
+				"single-cp_alquileres.php"
+			],
+			[
+				"tem",
+				"page-templates/template-alquileres.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"sing",
+				"single-cp_alquileres.php"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"heade",
+				"header.php"
+			],
+			[
+				"sty",
+				"style.scss"
+			],
+			[
+				"al",
+				"page-templates/template-alquileres.php"
+			],
+			[
+				"funcion",
+				"functions.php"
+			],
+			[
+				"clien",
+				"page-templates/template-clientes.php"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"st",
+				"style.scss"
+			],
+			[
+				"s",
+				"style.css"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"hear",
+				"header.php"
+			],
+			[
+				"foote",
+				"footer.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"alq",
+				"single-cp_alquileres.php"
+			],
+			[
+				"cliente",
+				"page-templates/template-clientes.php"
+			],
+			[
+				"sincle",
+				"single-cp_vehiculos.php"
+			],
+			[
+				"mai",
+				"js/main.js"
+			],
+			[
+				"full",
+				"js/fullcalendar.js"
+			],
+			[
+				"syl",
+				"style.scss"
+			],
+			[
+				"css",
+				"css/bootstrap-material-design.css"
+			],
+			[
+				"clie",
+				"page-templates/template-clientes.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"veh",
+				"page-templates/template-vehiculos.php"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"singl",
+				"single.php"
+			],
+			[
+				"art",
+				"template-artistas.php"
+			],
+			[
+				"capi",
+				"template-capitulos.php"
+			],
+			[
+				"funcio",
+				"functions.php"
+			],
+			[
+				"side",
+				"sidebar.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documentos/atdf.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 152.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
